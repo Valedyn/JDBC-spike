@@ -1,14 +1,12 @@
-package at.spengergasse.grueneis.dao;
-
-import at.spengergasse.grueneis.model.Person;
+package at.spengergasse.valedyn.old;
 
 import java.sql.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Optional;
 
+// old version
 public class PersonDataAccessObject {
     public static void main(String[] args) {
         PersonDataAccessObject personDataAccessObject = new PersonDataAccessObject();

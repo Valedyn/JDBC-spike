@@ -1,4 +1,4 @@
-package at.spengergasse.grueneis.model;
+package at.spengergasse.valedyn.old;
 
 import java.time.LocalDate;
 

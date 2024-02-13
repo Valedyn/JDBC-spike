@@ -1,6 +1,7 @@
-package at.spengergasse.grueneis.dao;
+package at.spengergasse.valedyn.dao;
 
-import at.spengergasse.grueneis.model.Person;
+import at.spengergasse.valedyn.old.Person;
+import at.spengergasse.valedyn.old.PersonDataAccessObject;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
